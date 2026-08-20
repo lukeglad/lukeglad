@@ -3,9 +3,9 @@
 ![EQ — a six-band parametric equalizer with per-band dynamic EQ](eq.png)
 
 Technical Production Manager at DoctorPodcasting, where we produce podcasts for
-hospitals and healthcare systems across the country. Trained in audio
-engineering and music production. I build audio plugins under the name
-**[AudioFlower](https://audioflower.art)**.
+hospitals and healthcare systems across the country. I studied audio engineering
+at Omega Recording Studios in Rockville, Maryland — class of 2020 — and I build
+audio tools under the name **[AudioFlower](https://audioflower.art)**.
 
 ### What I'm building
 
@@ -20,16 +20,18 @@ number before you hear anything is a tax. An ambient background, an output
 meter, a skin system, and two other features got built and then deleted for
 making the plugin worse to use.
 
-**→ [audioflower.art](https://audioflower.art)** — the site is going up now.
+**→ [audioflower.art](https://audioflower.art)**
 
 ### How I work
 
-I use AI-assisted development to build software, and I direct it the way I'd
-direct a session: I make the product, interface, and sound decisions, and judge
-every result by ear in a DAW on real material. The tooling writes code faster
-than I could. It has no idea whether a compressor feels right on a vocal.
+I'm a professionally trained audio engineer who designs and ships his own
+tools. What keeps me curious is how far AI has moved the ceiling on what one
+person can build — and what that means for creative work that used to be out of
+reach.
 
-### Elsewhere
-
-Most of my work lives at [audioflower.art](https://audioflower.art) rather than
-here — the plugins are commercial, so their source stays closed.
+I use AI coding agents to write the complex DSP algorithms behind the audio
+processing. Every product, interface, and sound decision is mine, and every
+build gets tested professionally inside a DAW on real material — which is the
+half that actually determines whether a plugin is worth using. An agent can
+implement an envelope follower. It has no idea whether the result feels right
+on a vocal.
