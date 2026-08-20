@@ -1,7 +1,5 @@
 ## Luke Gladfelter
 
-https://github.com/user-attachments/assets/f34c02cf-c43f-44cb-8ce0-d26f1b71cfcf
-
 Technical Production Manager at DoctorPodcasting, where we produce podcasts for
 hospitals and healthcare systems across the country. I studied audio engineering
 at Omega Recording Studios in Rockville, Maryland — class of 2020 — and I build
