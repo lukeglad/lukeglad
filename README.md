@@ -1,6 +1,6 @@
 ## Luke Gladfelter
 
-![EQ — a six-band parametric equalizer with per-band dynamic EQ](eq.png)
+https://github.com/user-attachments/assets/a3f4d9ef-b67a-4938-9f36-5335dceb4ec8
 
 Technical Production Manager at DoctorPodcasting, where we produce podcasts for
 hospitals and healthcare systems across the country. I studied audio engineering
