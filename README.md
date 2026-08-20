@@ -24,14 +24,10 @@ making the plugin worse to use.
 
 ### How I work
 
-I'm a professionally trained audio engineer who designs and ships his own
-tools. What keeps me curious is how far AI has moved the ceiling on what one
-person can build — and what that means for creative work that used to be out of
-reach.
+I'm a professionally trained audio engineer who designs and ships audio tools.
+I'm interested in how AI can shape the future of innovation in creative
+industries.
 
 I use AI coding agents to write the complex DSP algorithms behind the audio
-processing. Every product, interface, and sound decision is mine, and every
-build gets tested professionally inside a DAW on real material — which is the
-half that actually determines whether a plugin is worth using. An agent can
-implement an envelope follower. It has no idea whether the result feels right
-on a vocal.
+processing. Every product, user interface, and sound design decision is mine,
+and every build gets tested professionally inside a DAW on real material.
