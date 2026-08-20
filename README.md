@@ -1,6 +1,6 @@
 ## Luke Gladfelter
 
-https://github.com/user-attachments/assets/a3f4d9ef-b67a-4938-9f36-5335dceb4ec8
+https://github.com/user-attachments/assets/f34c02cf-c43f-44cb-8ce0-d26f1b71cfcf
 
 Technical Production Manager at DoctorPodcasting, where we produce podcasts for
 hospitals and healthcare systems across the country. I studied audio engineering
